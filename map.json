@@ -187,7 +187,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/nusse.github.io\/foo\/schnitzel\/n.mp3"
+                 "value":"http:\/\/sontag.ch\/ada\/n.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
