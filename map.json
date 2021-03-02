@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nusse.github.io\/foo\/schnitzel\/berlin.html"
+                 "value":"https:\/\/nusse.github.io\/foo\/schnitzel\/yay.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nusse.github.io\/foo\/schnitzel\/deutschland.html"
+                 "value":"https:\/\/nusse.github.io\/foo\/schnitzel\/balloon.html"
                 }],
          "type":"tilelayer",
          "visible":true,
